@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XhuljanoKocia
 - 👀 I’m interested in Javascript and PHP
-- 🌱 I’m currently learning Javascript and PHP
+- 🌱 I’m currently learning Javascript and Laravel
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me xhuljanokocia@gmail.com
 
